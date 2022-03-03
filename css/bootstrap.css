@@ -3272,7 +3272,10 @@ tbody.collapse.in {
   border-top-left-radius: 0;
 }
 
+
+
 .btn-group-justified {
+  
   display: table;
   width: 100%;
   table-layout: fixed;
